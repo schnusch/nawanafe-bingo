@@ -20,9 +20,9 @@ JavaScript is needed for this site to work.
 ```
 
 ```{=html5}
-<div class="js center">
+<p class="js center">
   <div id="bingo"></div>
-</div>
+</p>
 ```
 
 ## Source Code

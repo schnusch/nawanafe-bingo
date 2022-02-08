@@ -80,7 +80,9 @@ function add_to_popup(info: ItemInfo): HTMLElement|null {
 	const elem = document.createElement("div")
 	if(info.meme) {
 		if(info.meme.video) {
-			const video = elem.appendChild(document.createElement("video"))
+			const video = elem
+				.appendChild(document.createElement("p"))
+				.appendChild(document.createElement("video"))
 			video.autoplay = false
 			video.controls = true
 			video.loop = true
@@ -89,7 +91,9 @@ function add_to_popup(info: ItemInfo): HTMLElement|null {
 			video.src = info.meme.video
 		}
 		if(info.meme.image) {
-			const image = elem.appendChild(document.createElement("img"))
+			const image = elem
+				.appendChild(document.createElement("p"))
+				.appendChild(document.createElement("img"))
 			image.src = info.meme.image
 		}
 	}
