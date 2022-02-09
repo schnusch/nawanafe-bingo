@@ -25,6 +25,8 @@ JavaScript is needed for this site to work.
 </p>
 ```
 
+To generate a new bingo card click [here](.).
+
 ## Source Code
 
 The source code can be found at <https://github.com/loloftherings/bingo/>.
