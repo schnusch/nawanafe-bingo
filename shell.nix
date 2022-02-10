@@ -5,6 +5,7 @@ pkgs.mkShell {
     git
     nginx
     pandoc
+    python3
     sassc
     nodePackages.typescript
   ];
