@@ -82,5 +82,25 @@
       }
     , { "woman with short hair": null
       }
+    , { "diverse elf or dwarf":
+          { "meme":
+              { "video": "https://giant.gfycat.com/PastelImpishEwe.mp4"
+              }
+          , "link":
+              { "text": "Tropic Thunder at IMDb"
+              , "href": "https://www.imdb.com/title/tt0942385/"
+              }
+          }
+      }
+    , { "You can't handle the truth!":
+          { "meme":
+              { "video": "https://zippy.gfycat.com/CriminalCoolFirecrest.mp4"
+              }
+          , "link":
+              { "text": "A Few Good Men at IMDb"
+              , "href": "https://m.imdb.com/title/tt0104257/"
+              }
+          }
+      }
     ]
 }
