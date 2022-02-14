@@ -102,5 +102,17 @@
               }
           }
       }
+    , { "celebrity cameo":
+          { "meme":
+              { "image": "https://64.media.tumblr.com/109e100dbbdbec8fa453f87c2dfd8d81/tumblr_ngdgx8VpG41qd4rf5o4_500.jpg"
+              }
+          , "link":
+              { "text": "Stephen Colbert Cosplay by Entertainment Weekly"
+              , "href": "https://entertainmentweekly.tumblr.com/post/104845068042/yup-we-took-stephen-colbert-out-in-new-york-city"
+              }
+          }
+      }
+    , { "child main character": null
+      }
     ]
 }
