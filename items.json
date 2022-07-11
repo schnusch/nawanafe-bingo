@@ -114,5 +114,15 @@
       }
     , { "child main character": null
       }
+    , { "aerial shot of a message being delivered":
+          { "meme":
+              { "video": "https://zippy.gfycat.com/MeagerFlawedHapuka.mp4"
+              }
+          , "link":
+              { "text": "The Lord of the Rings: The Return of the King at IMDb"
+              , "href": "https://www.imdb.com/title/tt0167260/"
+              }
+          }
+      }
     ]
 }
