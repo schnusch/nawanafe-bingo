@@ -1,130 +1,115 @@
 { "items":
-    [ { "decapitation or violent death": null
+    [ { "min. 3 Raucherpausen auf einer Autofahrt": null
       }
-    , { "dwarf-elf-friendship":
-          { "meme":
-              { "image": "https://c.tenor.com/e6dRYb08zAEAAAAC/lord-of-the-rings-what-about.gif"
-              }
-          , "link":
-              { "text": "The Lord of the Rings: The Return of the King at IMDb"
-              , "href": "https://www.imdb.com/title/tt0167260/"
-              }
-          }
+    , { "Umstieg verpasst": null
       }
-    , { "elf gets his ears cut off": null
+    , { "Getränk im Zug verschütet": null
       }
-    , { "elf with short hair": null
+    , { "zu wenig Bier mit": null
       }
-    , { "elf-stunt":
-          { "meme":
-              { "video": "https://giant.gfycat.com/BabyishRegularHuemul.mp4"
-              }
-          , "link":
-              { "text": "The Lord of the Rings: The Two Towers at IMDb"
-              , "href": "https://www.imdb.com/title/tt0167261/"
-              }
-          }
+    , { "zu viel Bier mit": null
       }
-    , { "family intrigues": null
+    , { "zu wenig Essen mit": null
       }
-    , { "flashback to earlier in the TV show": null
+    , { "zu viel Essen mit": null
       }
-    , { "gratuitous cameo or mention of a place": null
+    , { "kein Essen für die Fahrt eingepackt": null
       }
-    , { "gratuitous kissing": null
+    , { "keine Getränke für die Fahrt eingepackt": null
       }
-    , { "gratuitous scene with a toned topless male":
-          { "meme":
-              { "video": "https://zippy.gfycat.com/MassiveJaggedErne.mp4"
-              }
-          , "link":
-              { "text": "Crazy, Stupid, Love. at IMDb"
-              , "href": "https://www.imdb.com/title/tt1570728/"
-              }
-          }
+    , { "Autopanne": null
       }
-    , { "jumpscare": null
+    , { "Autofahrer verfahren sich": null
       }
-    , { "mention or appearance of hobbits or the Shire": null
+    , { "jemand macht das ganze Wochenende keinen Finger krum": null
       }
-    , { "senseless violence against animals": null
+    , { "Benjamin ist Donnerstag voller als die Zugfahrer": null
       }
-    , { "sex scene": null
+    , { "Zitat: \"Warum haben wir eigentlich kein Fassbier mit?\"": null
       }
-    , { "slapstick": null
+    , { "Zitat: \"Wie is'n jetzt der Plan für heute?\"": null
       }
-    , { "slow-mo action scene":
-          { "meme":
-              { "video": "https://giant.gfycat.com/EvergreenHotGrison.mp4"
-              }
-          , "link":
-              { "text": "The Matrix at IMDb"
-              , "href": "https://www.imdb.com/title/tt0133093/"
-              }
-          }
+    , { "Klinkenkabel kaputt": null
       }
-    , { "something in the background":
-          { "meme":
-              { "video": "https://giant.gfycat.com/SolidDapperBluegill.mp4"
-              }
-          , "link":
-              { "text": "/r/freefolk"
-              , "href": "https://old.reddit.com/r/freefolk/comments/blkutj/the_starbucks_cup_wasnt_the_first_time_they/"
-              }
-          }
+    , { "Liegestuhl geht kaputt": null
       }
-    , { "something obvious is explained to the audience":
-          { "link":
-              { "text": "Audience Surrogate at tvtropes.org"
-              , "href": "https://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate"
-              }
-          }
+    , { "Sophie kriegt einen Anfall, weil etwas dreckig ist": null
       }
-    , { "woman with short hair": null
+    , { "Zitat: \"Wann gibt's endlich Essen?\"": null
       }
-    , { "diverse elf or dwarf":
-          { "meme":
-              { "video": "https://giant.gfycat.com/PastelImpishEwe.mp4"
-              }
-          , "link":
-              { "text": "Tropic Thunder at IMDb"
-              , "href": "https://www.imdb.com/title/tt0942385/"
-              }
-          }
+    , { "Trinkverbot im Zug": null
       }
-    , { "You can't handle the truth!":
-          { "meme":
-              { "video": "https://zippy.gfycat.com/CriminalCoolFirecrest.mp4"
-              }
-          , "link":
-              { "text": "A Few Good Men at IMDb"
-              , "href": "https://m.imdb.com/title/tt0104257/"
-              }
-          }
+    , { "Attila will grillen": null
       }
-    , { "celebrity cameo":
-          { "meme":
-              { "image": "https://64.media.tumblr.com/109e100dbbdbec8fa453f87c2dfd8d81/tumblr_ngdgx8VpG41qd4rf5o4_500.jpg"
-              }
-          , "link":
-              { "text": "Stephen Colbert Cosplay by Entertainment Weekly"
-              , "href": "https://entertainmentweekly.tumblr.com/post/104845068042/yup-we-took-stephen-colbert-out-in-new-york-city"
-              }
-          }
+    , { "keine passende Kleidung dabei": null
       }
-    , { "child main character": null
+    , { "die Hälfte geht vor 0:00 ins Bett": null
       }
-    , { "aerial shot of a message being delivered":
-          { "meme":
-              { "video": "https://zippy.gfycat.com/MeagerFlawedHapuka.mp4"
-              }
-          , "link":
-              { "text": "The Lord of the Rings: The Return of the King at IMDb"
-              , "href": "https://www.imdb.com/title/tt0167260/"
-              }
-          }
+    , { "Poolunfall": null
       }
-    , { "Shelob": null
+    , { "Max erzählt wie er ins Lagerfeuer gefallen ist": null
+      }
+    , { "Max erzählt eine unlustige Geschichte von früher": null
+      }
+    , { "Max bezeichnet sich als \"pöbelnden EM\"": null
+      }
+    , { "Diskussion über Chlor im Pool": null
+      }
+    , { "etwas dummes mit Feuerholz": null
+      }
+    , { "Zitat: \"Wie könnt ihr jetzt schon wieder trinken?\"": null
+      }
+    , { "jemand tanzt auf einem (Bier-)Tisch": null
+      }
+    , { "Zitat: \"Warum haben wir eigentlich nur die alte Fahne mit?\"": null
+      }
+    , { "Sophie reagiert pissig auf einen Spruch von Julian": null
+      }
+    , { "Benjamin lamentiert, dass niemand was zu kiffen dabei hat.": null
+      }
+    , { "Patricia kriegt einen dummen Spruch wegen Stammtisch gedrückt": null
+      }
+    , { "Smokehead wird vermisst": null
+      }
+    , { "Nachbarn beschweren sich": null
+      }
+    , { "jemand ist (fast) zu spät am Zug": null
+      }
+    , { "Zug ohne Toilette": null
+      }
+    , { "jemand beschwert sich über keinen Empfang": null
+      }
+    , { "etwas in der Unterkunft geht kaputt": null
+      }
+    , { "Zitat am Lagerfeuer: \"Das ist so langweilig, können wir nicht wandern gehen?\"": null
+      }
+    , { "es wird sich über Musik beschwert": null
+      }
+    , { "Sandstorm am morgen": null
+      }
+    , { "Ferdinand ist absichtlich dumm": null
+      }
+    , { "jemand macht rum": null
+      }
+    , { "Katharina räumt eine fremde Reisetasche aus": null
+      }
+    , { "jemand heult": null
+      }
+    , { "jemand kotzt": null
+      }
+    , { "Gregor hat Sonnenbrand": null
+      }
+    , { "Attila ist allergisch auf etwas": null
+      }
+    , { "kein Orangensaft mehr zum Frühstück": null
+      }
+    , { "jemandes Kippen sind alle": null
+      }
+    , { "Flex flatuliert": null
+      }
+    , { "Katharina pöbelt betrunken": null
+      }
+    , { "Benjamin erwähnt der Bärenzwinger": null
       }
     ]
 }
