@@ -39,6 +39,6 @@ build/script.js: script.ts items.json
 	$(TSC) $(tsflags) --noEmit $(@F:.js=.ts)
 	$(ESBUILD) $(esflags) --bundle --platform=browser --outfile=$@ $(@F:.js=.ts)
 
-build/style.css: style.sass
+build/style.css: style.scss
 	mkdir -p $(@D)
-	$(SASSC) $(sassflags) --sass $(@F:.css=.sass) $@
+	$(SASSC) $(sassflags) --sass $(@F:.css=.scss) $@
