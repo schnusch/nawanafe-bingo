@@ -1,5 +1,9 @@
 @import "marx/css/marx";
 
+:root {
+	--font-size-base: 11pt;
+}
+
 body.js .nojs {
 	display: none;
 }
@@ -14,7 +18,7 @@ body.nojs .js {
 	border-top: var(--border);
 	border-left: var(--border);
 	display: grid;
-	max-width: unquote("min(80vw, 80vh)");
+	max-width: unquote("min(90vw, 90vh)");
 	margin: 0 auto;
 
 	&, & > * {
@@ -35,6 +39,7 @@ body.nojs .js {
 
 		& > * {
 			position: absolute;
+			width: 95%;
 			top: 50%;
 			left: 50%;
 			transform: translate(-50%, -50%);
