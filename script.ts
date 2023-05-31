@@ -64,7 +64,7 @@ function parse_fragment(fragment: string): number[]|null {
 function fragment_changed(_?: Event) {
 	const picked_indexes = parse_fragment(location.hash)
 	if(picked_indexes == null) {
-		generate_fragment(4, 4)
+		generate_fragment(5, 5)
 	} else {
 		populate_bingo(picked_indexes)
 	}
