@@ -132,7 +132,9 @@ function show_popup(popup_content: HTMLElement|null) {
 function create_bingo_tile(item: string, info: ItemInfo): HTMLElement {
 	const outer = document.createElement("div")
 	const inner = document.createElement("div")
-	inner.appendChild(document.createTextNode(item))
+	const inner2 = document.createElement("div")
+	inner2.appendChild(document.createTextNode(item))
+	inner.appendChild(inner2)
 	outer.appendChild(inner)
 
 	const popup_content = add_to_popup(info)
