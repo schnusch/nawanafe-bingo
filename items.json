@@ -1,130 +1,23 @@
 { "items":
-    [ { "decapitation or violent death": null
+    [ { "Bier alle": null
       }
-    , { "dwarf-elf-friendship":
-          { "meme":
-              { "image": "https://c.tenor.com/e6dRYb08zAEAAAAC/lord-of-the-rings-what-about.gif"
-              }
-          , "link":
-              { "text": "The Lord of the Rings: The Return of the King at IMDb"
-              , "href": "https://www.imdb.com/title/tt0167260/"
-              }
-          }
+    , { "keine gute vegane Speise": null
       }
-    , { "elf gets his ears cut off": null
+    , { "zu wenig Filler": null
       }
-    , { "elf with short hair": null
+    , { "kein Pfeffi": null
       }
-    , { "elf-stunt":
-          { "meme":
-              { "video": "https://giant.gfycat.com/BabyishRegularHuemul.mp4"
-              }
-          , "link":
-              { "text": "The Lord of the Rings: The Two Towers at IMDb"
-              , "href": "https://www.imdb.com/title/tt0167261/"
-              }
-          }
+    , { "vollgekotztes Sofa": null
       }
-    , { "family intrigues": null
+    , { "vollgekotzte Bar": null
       }
-    , { "flashback to earlier in the TV show": null
+    , { "jemand findet das CD nicht": null
       }
-    , { "gratuitous cameo or mention of a place": null
+    , { "Raucher sperren sich aus": null
       }
-    , { "gratuitous kissing": null
+    , { "viel weniger Leute als angemeldet": null
       }
-    , { "gratuitous scene with a toned topless male":
-          { "meme":
-              { "video": "https://zippy.gfycat.com/MassiveJaggedErne.mp4"
-              }
-          , "link":
-              { "text": "Crazy, Stupid, Love. at IMDb"
-              , "href": "https://www.imdb.com/title/tt1570728/"
-              }
-          }
-      }
-    , { "jumpscare": null
-      }
-    , { "mention or appearance of hobbits or the Shire": null
-      }
-    , { "senseless violence against animals": null
-      }
-    , { "sex scene": null
-      }
-    , { "slapstick": null
-      }
-    , { "slow-mo action scene":
-          { "meme":
-              { "video": "https://giant.gfycat.com/EvergreenHotGrison.mp4"
-              }
-          , "link":
-              { "text": "The Matrix at IMDb"
-              , "href": "https://www.imdb.com/title/tt0133093/"
-              }
-          }
-      }
-    , { "something in the background":
-          { "meme":
-              { "video": "https://giant.gfycat.com/SolidDapperBluegill.mp4"
-              }
-          , "link":
-              { "text": "/r/freefolk"
-              , "href": "https://old.reddit.com/r/freefolk/comments/blkutj/the_starbucks_cup_wasnt_the_first_time_they/"
-              }
-          }
-      }
-    , { "something obvious is explained to the audience":
-          { "link":
-              { "text": "Audience Surrogate at tvtropes.org"
-              , "href": "https://tvtropes.org/pmwiki/pmwiki.php/Main/AudienceSurrogate"
-              }
-          }
-      }
-    , { "woman with short hair": null
-      }
-    , { "diverse elf or dwarf":
-          { "meme":
-              { "video": "https://giant.gfycat.com/PastelImpishEwe.mp4"
-              }
-          , "link":
-              { "text": "Tropic Thunder at IMDb"
-              , "href": "https://www.imdb.com/title/tt0942385/"
-              }
-          }
-      }
-    , { "You can't handle the truth!":
-          { "meme":
-              { "video": "https://zippy.gfycat.com/CriminalCoolFirecrest.mp4"
-              }
-          , "link":
-              { "text": "A Few Good Men at IMDb"
-              , "href": "https://m.imdb.com/title/tt0104257/"
-              }
-          }
-      }
-    , { "celebrity cameo":
-          { "meme":
-              { "image": "https://64.media.tumblr.com/109e100dbbdbec8fa453f87c2dfd8d81/tumblr_ngdgx8VpG41qd4rf5o4_500.jpg"
-              }
-          , "link":
-              { "text": "Stephen Colbert Cosplay by Entertainment Weekly"
-              , "href": "https://entertainmentweekly.tumblr.com/post/104845068042/yup-we-took-stephen-colbert-out-in-new-york-city"
-              }
-          }
-      }
-    , { "child main character": null
-      }
-    , { "aerial shot of a message being delivered":
-          { "meme":
-              { "video": "https://zippy.gfycat.com/MeagerFlawedHapuka.mp4"
-              }
-          , "link":
-              { "text": "The Lord of the Rings: The Return of the King at IMDb"
-              , "href": "https://www.imdb.com/title/tt0167260/"
-              }
-          }
-      }
-    , { "Shelob": null
+    , { "viel mehr Leute als angemeldet": null
       }
     ]
 }

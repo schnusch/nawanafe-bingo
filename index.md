@@ -1,11 +1,8 @@
 ---
-title-prefix: Bingo
-pagetitle: LoL of the Rings
+title: NaWaNaFe Bingo
 ...
 
-# LoL of the Rings Bullshit Bingo
-
-This is a bullshit bingo for the upcoming TV show [The Lord of the Rings: The Rings of Power](https://www.imdb.com/title/tt7631058/).
+# NaWaNaFe Bingo
 
 ```{=html5}
 <div class="nojs error">
@@ -29,7 +26,7 @@ To generate a new bingo card click [here](.).
 
 ## Source Code
 
-The source code can be found at <https://github.com/loloftherings/bingo/>.
+The source code can be found at <https://github.com/schnusch/nawanafe-bingo/>.
 
 ```{=html5}
 <div id="popup"></div>
