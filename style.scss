@@ -22,6 +22,10 @@ body.nojs .js {
 		border-bottom: var(--border);
 	}
 
+	.checked {
+		background: salmon;
+	}
+
 	/* dimensions and borders */
 
 	& > * {
